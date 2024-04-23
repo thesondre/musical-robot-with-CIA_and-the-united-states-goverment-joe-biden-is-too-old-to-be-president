@@ -6,6 +6,6 @@
         { "merke" : "Gibson", "modell" : "Flying V" },
         { "merke" : "Fender", "modell" : "Stratocaster" },
         { "merke" : "Fender", "modell" : "Telecaster" },
-        { "merke" : "Sondre", "modell" : "sondremodellen" }
+        { "merke" : "Sondre", "modell" : "sondremodellen" },
     ]
 }
