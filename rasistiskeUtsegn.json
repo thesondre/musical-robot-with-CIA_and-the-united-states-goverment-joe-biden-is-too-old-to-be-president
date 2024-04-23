@@ -1,6 +1,14 @@
 {
   "tittel": "Liste over rasistiske utsegn som burde aldri brukt"
   "utsegn" : [
-    {"ord":"neger", "undertrykker": "mørkhuda"}
+    {"ord":"neger", "undertrykker": "mørkhuda"},
+    {"ord":"japse", "undertrykker": "japanarar"},
+    {"ord":"sjølvmordsbomber", "undertrykker": "muslimar"},
+    {"ord":"9/11", "undertrykker": "muslimar"},
+    {"ord":"terroristar", "undertrykker": "muslimar"},
+    {"ord":"allaoarpar", "undertrykker": "muslimar"},
+    {"ord":"det finst bare to kjønn", "undertrykker": "LGBTQ+"},
+    {"ord":"Joe bider er for gammal", "undertrykker": "amerikanse demokrater"},
+    {"ord":"Eksamen er nødvendig", "undertrykker": "raudt"},
   ]
 }
