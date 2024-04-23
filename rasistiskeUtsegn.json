@@ -1,1 +1,6 @@
-{}
+{
+  "tittel": "Liste over rasistiske utsegn som burde aldri brukt"
+  "utsegn" : [
+    {"ord":"neger", "undertrykker": "mørkhuda"}
+  ]
+}
